@@ -1,0 +1,359 @@
+#include <iostream>
+#include <windows.h>
+using namespace std;
+int main()
+{
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|________|"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|________|"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+//......................
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|________|"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|________|"<<endl
+    <<" ________"<<endl;
+    Sleep(100);    
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+//......................
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|________|"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|________|"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+//......................
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|________|"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|________|"<<endl
+    <<" ________"<<endl;
+    Sleep(100);    
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);    
+    
+system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|________|"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|________|"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|________|"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|________|"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+//|||||||||||||||||||||||    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);    
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|    __  |"<<endl
+    <<"|   |  | |"<<endl
+    <<"|    __  |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|     __ |"<<endl
+    <<"|    |  ||"<<endl
+    <<"|     __ |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);    
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|     __ |"<<endl
+    <<"|    |  ||"<<endl
+    <<"|     __ |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);     
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|     __ |"<<endl
+    <<"|    |  ||"<<endl
+    <<"|     __ |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);     
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|    __  |"<<endl
+    <<"|   |  | |"<<endl
+    <<"|    __  |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100); 
+
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100); 
+
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|  __    |"<<endl
+    <<"| |  |   |"<<endl
+    <<"|  __    |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"| __     |"<<endl
+    <<"||  |    |"<<endl
+    <<"| __     |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"| __     |"<<endl
+    <<"||  |    |"<<endl
+    <<"| __     |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|  __    |"<<endl
+    <<"| |  |   |"<<endl
+    <<"|  __    |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);
+    
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100); 
+ 
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);  
+ 
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100); 
+ 
+    system("cls");
+cout<<" ________"<<endl
+    <<"|        |"<<endl
+    <<"|   __   |"<<endl
+    <<"|  |  |  |"<<endl
+    <<"|   __   |"<<endl
+    <<"|        |"<<endl
+    <<" ________"<<endl;
+    Sleep(100);     
+    
+    
+system("pause");
+return 0;
+}
